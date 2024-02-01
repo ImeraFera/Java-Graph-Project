@@ -2,23 +2,22 @@
 
 Bu Java projesi, şehirler arası seyahat rotalarını ve varış sürelerini hesaplamak için kullanılır.
 
-# Proje Amacı
+## Proje Amacı
 
-Grafların java da kodlanmasına bir örnek olması amacıyla yapıldı.
+Grafların Java'da kodlanmasına bir örnek olması amacıyla yapılmıştır.
 
-# Kullanılan Araçlar
+## Kullanılan Araçlar
 
-VS Code ile java eklentisi kullanılarak yapılmıştır. Ayrıca farklı örnekler olması açısından 2 farklı txt dosyası vardır.
+VS Code ile Java eklentisi kullanılarak yapılmıştır. Ayrıca farklı örnekler olması açısından 2 farklı txt dosyası bulunmaktadır.
 
-# Kurulum
+## Kurulum
 
-VS Code'a java eklentisini kurduktan sonra proje dosyasını direkt VS Code'a yükleyip main.java' yı çalıştırın.
+1. VS Code'a Java eklentisini kurun.
+2. Proje dosyasını VS Code'a yükleyin.
+3. `main.java` dosyasını çalıştırın.
 
-# Önemli Not !
+## Önemli Notlar
 
-1- TXT dosyalarından hangisini kullanacaksanız dosyaOku metodu içinden dosya adını değiştirmeyi unutmayın.
-2- Ayrıca sizlerde örnek txt dosyalarına bakarak kendi örnek txt dosyasınızı oluşturup deneyebilirsiniz.
-3- Yönsüz graf baz alınarak yapılmıştır. Buna dikkat ederek test dosyasınızı hazırlayınız.
-
-
-
+1. TXT dosyalarından hangisini kullanacaksanız, `dosyaOku` metodunun içinde dosya adını değiştirmeyi unutmayın.
+2. Örnek txt dosyalarına bakarak kendi örnek txt dosyanızı oluşturabilir ve deneyebilirsiniz.
+3. Yönsüz graf baz alınarak yapılmıştır. Buna dikkat ederek test dosyanızı hazırlayınız.
