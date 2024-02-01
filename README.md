@@ -21,3 +21,6 @@ VS Code ile Java eklentisi kullanılarak yapılmıştır. Ayrıca farklı örnek
 1. TXT dosyalarından hangisini kullanacaksanız, `dosyaOku` metodunun içinde dosya adını değiştirmeyi unutmayın.
 2. Örnek txt dosyalarına bakarak kendi örnek txt dosyanızı oluşturabilir ve deneyebilirsiniz.
 3. Yönsüz graf baz alınarak yapılmıştır. Buna dikkat ederek test dosyanızı hazırlayınız.
+4. Eğer bir hata alırsanız veya mantık hatasıyla karşılaşırsanız mail adresim(ahmet.sayan331@gmail.com) ile bana ulaşırsanız sevinirim.
+
+İyi Çalışmalar :)
