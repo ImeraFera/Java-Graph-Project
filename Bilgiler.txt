@@ -1,0 +1,23 @@
+Şehirler ve Kodları:
+izmir 1
+ankara 2
+istanbul 3
+bartin 4
+antalya 5
+Graf:
+	1	2	3	4	5
+1	0	600	500	0	450
+2	600	0	520	300	470
+3	500	520	0	430	0
+4	0	300	430	0	0
+5	450	470	0	0	0
+Kişiler ve Başlangıç Noktaları:
+ali antalya
+ayse bartin
+hasan ankara
+mehmet izmir
+Kişilerin Seyahat Noktaları ve Hızları:
+ali antalya-ankara-bartin-istanbul 2 km/dk
+ayse bartin-ankara-antalya 2,5 km/dk
+mehmet izmir-antalya-ankara-istanbul 2,3 km/dk
+hasan ankara-izmir-istanbul 2,1 km/dk

@@ -1,0 +1,21 @@
+Şehirler ve Kodları:
+mersin 1
+kastamonu 2
+adana 3
+osmaniye 4
+ankara 5
+Graf:
+	1	2	3	4	5
+1	0	550	500	0	350
+2	550	0	520	300	450
+3	500	520	0	400	0
+4	0	300	400	0	0
+5	350	450	0	0	0
+Kişiler ve Başlangıç Noktaları:
+ahmet kastamonu
+ozlem ankara
+mehmet mersin
+Kişilerin Seyahat Noktaları ve Hızları:
+ozlem ankara-mersin-adana-osmaniye 2,3 km/dk
+ahmet kastamonu-adana-osmaniye 3 km/dk
+mehmet mersin-kastamonu-ankara 2,6 km/dk
